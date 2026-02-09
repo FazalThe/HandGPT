@@ -11,7 +11,9 @@ I made the wiring in cirkitdesigner, you can view it here:
 https://app.cirkitdesigner.com/project/0aee659e-f26b-4180-a706-ca25a3e7102f
 
 #Case
+
 ![Alt text](assets/assembly.png)
+
 I made the case in Fusion360.
 
 #BOM
